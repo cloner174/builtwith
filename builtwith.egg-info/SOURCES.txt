@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.py
+.github/workflows/python-package.yml
+builtwith/__init__.py
+builtwith/apps.json
+builtwith.egg-info/PKG-INFO
+builtwith.egg-info/SOURCES.txt
+builtwith.egg-info/dependency_links.txt
+builtwith.egg-info/top_level.txt
+tests/test_builtwith.py
+tests/wordpress.html
